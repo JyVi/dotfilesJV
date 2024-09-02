@@ -1,1 +1,2 @@
-/home/jv/.config/nvim/init.lua
+require("JV-Setup.set")
+require("JV-Setup.lazy")
